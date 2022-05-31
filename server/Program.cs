@@ -1,0 +1,3 @@
+﻿using server;
+
+Server.ExecuteServer();
